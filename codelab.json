@@ -1,0 +1,93 @@
+[
+{
+   "id ": "0",
+   "name" :  "Mr sam",
+   "age" : "25",
+   "state" : "Anambra ",
+   "food" : "Melon , rice and stew ,Ofesaala ",
+   "school" : "Brighterdays_ codelab",
+   "language" : "English, Ibo, German"
+},
+
+{
+   "id" : "1",
+   "name" : " Mr lekan",
+    "age" : "25",
+    "state" : "ondo ",
+    "food" : "Melon , rice and stew ,ofe ",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Ibo, spanish, french"
+},
+{
+    "id" : "2",
+    "name" : " Mr ola",
+    "age" : "25",
+    "state" : "kwara ",
+    "food" : "Melon , rice and stew ,Amala ",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, yoruba, french"
+},
+{
+    "id" : "3",
+    "name" : " JOHN EMMANUEL",
+     "age" : "12",
+    "state" : "Alkwa_ibom ",
+    "food" : "Melon , Afang_soup ,Adikaicon,404",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Ibiono_ ibom, German,spanish, french"
+},
+{
+    "id" : "4",
+    "name" : " Mrs osaze",
+     "age" : "25",
+    "state" : "Edo",
+    "food" : "freid rice , english souce ,jollof rice",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, benin, German,spanish, french,portugesse"
+},
+{
+    "id" : "5",
+    "name" : " Mr Gideon",
+     "age" : "25",
+    "state" : "Anambra",
+    "food" : "jollof rice , eguisi ,pepper soup",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Ibo, German"
+},
+{
+    "id" : "6",
+    "name" : "Mr Joshua",
+     "age" : "25",
+    "state" : "Delta ",
+    "food" : "Melon ,Banga ,pepper",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Pigin, German, french"
+},
+{
+    "id" : "7",
+    "name" : "Mr Yusuf",
+     "age" : "25",
+    "state" : "Kogi",
+    "food" : "Bread and Akara , eguisi ,Efoo",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Pigin,spanish"
+},
+{
+    "id" : "8",
+    "name" : " Samuel",
+     "age" : "25",
+    "state" : "Ondo ",
+    "food" : "Efoo , Jollof_rice ,pepper_soup",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, yoruba, french"
+},
+{
+    "id" : "9",
+    "name" : " Timothy",
+     "age" : "25",
+    "state" : "Benin",
+    "food" : "Melon ,Jollof_rice ,rice and stew",
+    "school" : "Brighterdays_ codelab",
+    "language" : "English, Ibiono_ ibom, German,spanish, french"
+}
+]
